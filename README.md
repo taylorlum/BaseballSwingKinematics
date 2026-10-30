@@ -1,10 +1,3 @@
----
-title: "Kinematic Drivers of Hitting Performance: Sequencing, Plane, and Power"
-format: html
-editor: visual
-author: "Taylor Lum"
----
-
 ## 1. Project Overview
 
 This project evaluates the biomechanical efficiency of four swings against incoming pitches using motion-capture time-series data. The analysis investigates how kinematic chain sequencing and attack angle matching can relate to bat speed and collision efficiency (exit velocity).
