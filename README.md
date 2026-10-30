@@ -5,7 +5,7 @@ This project evaluates the biomechanical efficiency of four swings against incom
 ## 2. Project Structure & Main Files
 
 ```         
-├── data/
+├── data/ # note that data is not included in this repository as it is proprietary
 │ ├── batter1.csv 
 │ ├── batter2.csv 
 │ ├── batter3.csv 
